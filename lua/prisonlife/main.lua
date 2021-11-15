@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/h9b/h/main/lua/prisonlife/ver.lua'))();
+loadstring(game:HttpGet('https://h9b.github.io/h/lua/prisonlife/ver.lua'))();
 if _G.ver == 'b1.0.0' then
 	if game.PlaceId == 155615604 then
 		local h9bprison = Instance.new("ScreenGui")
